@@ -1,0 +1,27 @@
+Variables: son cajitas donde guardo algo 
+(una cajita X que contendra un anillo)
+var X = anillo
+
+Strings: conjunto de caracteres, puede ser una palabra,
+un numero y siempre se escribe entre comillas, dobles o simples.
+string: "Dado", 'hola', "8".
+
+Funciones: es una caja donde guardo objetos, los transforma 
+y me devuelve algo.
+El argumeto de una funcion es el objeto o los objetos que 
+guardo en la caja. por ejemplo un 2 y otro 2.
+El return de una funcion, es la transformacion que quiero
+que haga la caja con los objetos que puse. 
+Por ejemplo
+function (2,2) {
+    return 2+2 = 4 
+}
+
+Declaraciones if: es un pase o un permiso, por ejemplo:
+si yo tengo más de 16 años, puedo ver una pelicula de terror
+
+Valores booleanos: es una pregunta la cual su respuesta
+sera Verdadero o Falso.
+por ejemplo: 
+Si la luz esta encendida, podre ver = verdadero
+si la luz esta apagada, podre ver = Falso
