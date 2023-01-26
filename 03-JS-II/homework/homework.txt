@@ -1,0 +1,8 @@
+for: es una accion que se repite varias veces de forma automatica
+Operadores operadoresLogicos
+&&: se llama Y, este nos permite obtener un resultado si comparo dos objetos, si estos
+son iguales, me dira que es cierto
+||: se llama O, este nos permite comparar dos objetos, y si uno es diferente del obtenerMayor
+me dira que es cierto
+!: se llama NOT, este nos permite comparar 2 objetos, pero si uno de ellos es diferente
+nos dira que es falso.
