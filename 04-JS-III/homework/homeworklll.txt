@@ -1,0 +1,3 @@
+Arrays:
+Estos son grandes cajas donde podemos colocar una gran cantidad de elementos, como vimos anteriormente
+diferentes tipos de datos (strings, numeros, booleanos), funciones e incluso otros arrays.
